@@ -1,0 +1,2 @@
+A recent frustration for me has been nailing down which values for the Gyro channel map to the "flight modes" supported by the CPS.  The documentation from Blade describes setups for several different transmitters, but doesn't actually list the !@#$! values.  The same is true for questions on forums, which get bogged-down in transmitter-specific setup details.  For those who just want the values, here they are:
+
