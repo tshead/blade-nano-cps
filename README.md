@@ -1,3 +1,3 @@
 # Blade Nano CPS
 
-Tips, tricks, and notes for the Blade Nano CPS helicopter.
+For tips, tricks, and notes for the Blade Nano CPS helicopter, see the [[wiki]].
